@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋  I'm Akkapon (App)
 
-<!--
-**xsodus/xsodus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=xsodus)](https://github.com/xsodus/github-profile-trophy)
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+I'm a technical lead, passionate about the cutting edge solution for XR and AI with Unity and NodeJS technology. I specialize in building mobile super app and game that deliver impactful user experiences.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I bring a unique blend of those technologies, turning ideas into reality through code. My goal is to create **immersive applications** and tools that **enhance productivity** and **spark imagination**.  
+
+## 🔧 Skills & Technologies  
+
+- **Programming Languages:** Typescript, C#, Java, Dart
+- **Frameworks & Libraries:** Flutter, Spring Boot, ExpressJS, React Native, ReactJS
+- **Game Development Tools:** Unity Engine 
+  
+## 📊 GitHub Stats  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xsodus&layout=compact&theme=radical)  
+
+
+
+
