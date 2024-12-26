@@ -2,6 +2,14 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=xsodus)
 
+## 🏅 Certifications
+
+![Github Copilot](./images/github-copilot.png)
+![Unity AR Dev](./images/unity-mobile-ar-development.png)
+![Unity JR Programmer](./images/unity-junior-programmer.png)
+![Unity Essentials](./images/unity-essentials-pathway.png)
+
+
 ## 🚀 About Me  
 I'm a technical lead, passionate about the cutting edge solution for XR and AI with Unity and NodeJS technology. I specialize in building mobile super app and game that deliver impactful user experiences.  
 
