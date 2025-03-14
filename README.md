@@ -8,6 +8,7 @@
 ![Unity AR Dev](./images/unity-mobile-ar-development.png)
 ![Unity JR Programmer](./images/unity-junior-programmer.png)
 ![Unity Essentials](./images/unity-essentials-pathway.png)
+<img src="https://images.credly.com/size/680x680/images/7ea49e2d-7d29-4055-8188-6b1558afc212/blob" alt="drawing" width="150"/>
 
 
 ## 🚀 About Me  
