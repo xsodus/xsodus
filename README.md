@@ -1,7 +1,5 @@
 ## Hi there 👋  I'm Akkapon (App)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=xsodus)
-
 ## 🏅 Certifications
 
 ![Github Copilot](./images/github-copilot.png)
