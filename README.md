@@ -7,7 +7,7 @@
 ![Unity JR Programmer](./images/unity-junior-programmer.png)
 ![Unity Essentials](./images/unity-essentials-pathway.png)
 <img src="https://images.credly.com/size/680x680/images/7ea49e2d-7d29-4055-8188-6b1558afc212/blob" alt="drawing" width="150"/>
-
+<img src="https://images.credly.com/size/680x680/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" alt="drawing" width="150"/>
 
 ## 🚀 About Me  
 I'm a technical lead, passionate about the cutting edge solution for XR and AI with Unity and NodeJS technology. I specialize in building mobile super app and game that deliver impactful user experiences.  
