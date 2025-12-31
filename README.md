@@ -20,9 +20,6 @@ I bring a unique blend of those technologies, turning ideas into reality through
 - **Frameworks & Libraries:** Flutter, Spring Boot, ExpressJS, React Native, ReactJS
 - **Game Development Tools:** Unity Engine 
   
-## 📊 GitHub Stats  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xsodus&layout=compact&theme=radical)  
 
 
 
